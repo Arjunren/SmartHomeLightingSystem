@@ -1,0 +1,1 @@
+Smart home lighting is an ESP32 learning project using LDR voltage divider; PIR motion sensor; opto-isolated low-voltage relay. It measures light level and publishes validated telemetry over Wi-Fi and TLS MQTT for home automation learners. Includes wiring, security, calibration, source code, sensor checks, sample data, provisioning, field guidance.
